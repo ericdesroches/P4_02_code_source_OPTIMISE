@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {/* correction contraste */
-    color: #000000!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -824,6 +824,16 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
+}
+
+
+/* AJOUT CODE */
+#h1contact {
+    color: #ffffff;
+}
+.pcontact {
+    font-weight: 600;
+   font-size: 1em;
 }
 
 @media (max-width: 1024px) {
