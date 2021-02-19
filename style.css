@@ -285,6 +285,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    font-weight: 800;/* Correction Very low contrast */
 }
 
 .navbar {
@@ -660,6 +661,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    font-weight: 800;/* Correction Very low contrast */
 }
 
 .hero-bloc-text-sub {
@@ -682,6 +684,7 @@ p {
 
 .tight-width-whitespace {
     max-width: 600px;
+    font-size: large; /* Correction Very low contrast */
     margin: auto auto auto auto;
 }
 
