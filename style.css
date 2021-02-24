@@ -658,6 +658,10 @@ a {
   /*color: #575757 !important;*/
   color: #000000 !important;
 }
+#citation{
+  /* Correction Very low contrast */
+  font-style: italic;
+}
 
 .container {
   max-width: 1000px;
